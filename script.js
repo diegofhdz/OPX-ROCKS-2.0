@@ -1,7 +1,5 @@
 function copyText(occupation) {
-    const text = `
-
-    - Proof of  Identity included 
+    const text = `    - Proof of  Identity included 
     
     - Proof of Employment included 
     
